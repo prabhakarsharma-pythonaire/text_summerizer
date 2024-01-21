@@ -1,0 +1,19 @@
+transformers[sentencepiece]
+datasets
+sacrebleu
+rouge_score
+py7zr
+pandas
+nltk
+tqdm
+PyYAML
+matplotlib
+#pytorch torchvision torchaudio cudatoolkit==11.7 -c pytorch -c nvidia
+boto3
+mypy-boto3-s3
+python-box==6.0.2
+ensure==1.0.2
+fastapi==0.78.0
+unicorn==2.0.1
+Jinja2==3.1.2
+-e .
