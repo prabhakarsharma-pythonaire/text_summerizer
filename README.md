@@ -1,3 +1,6 @@
+Had to stop this because of resouce issue
+
+
 ##WORKFLOWS
 1.Update config.yaml
 2.Update params.yaml
